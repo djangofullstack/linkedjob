@@ -1,9 +1,7 @@
-# linkedjob
-
 
 # LinkedJob
 
-<h1>LinkedIn Clone Project Summary</h1>
+<h1>LinkedJob a LinkedIn Clone Project Summary</h1>
 
 <p>This project is about LinkedJob, the ultimate app that connect job seekers and recruiters
 This full-stack project guides me through building a LinkedIn clone with the following features:
@@ -16,7 +14,6 @@ MongoDB Integration: Database setup for storing user and post data.
 Stripe Payment Setup: Integration with Stripe for payment processing.
 
 Authentication System with JWT: Secure user authentication using JSON Web Tokens.
-
 
 Data Protection: Ensuring user data security and privacy.
 
@@ -40,7 +37,7 @@ This project provides me a comprehensive guide to building a feature-rich social
 
 <h1></h1>
 
-<h2>Authentication: Clerk</h2>
+<h2>Authentication</h2>
 <img src="auth.png" alt="signup page" width="100%" />
 <h1>HomeScreen</h1>
 <img src="connecton.png" alt="Home Banner" width="100%" />
@@ -59,7 +56,7 @@ This project provides me a comprehensive guide to building a feature-rich social
 
 
 # 💻 Tech Use:
-<p>A feature-rich WhatsApp clone built with the following tech stack
+<p>A feature-rich linkedin clone clone built with the following tech stack
 </p>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
