@@ -37,13 +37,13 @@ News Feed Algorithm: Algorithm to display relevant posts in the user's news feed
 This project provides me a comprehensive guide to building a feature-rich social networking platform similar to LinkedIn
 
 <h1></h1>
-<h1>HomeScreen</h1>
-<img src="connecton.png" alt="Home Banner" width="100%" />
 
 <h1></h1>
 
 <h2>Authentication: Clerk</h2>
 <img src="auth.png" alt="signup page" width="100%" />
+<h1>HomeScreen</h1>
+<img src="connecton.png" alt="Home Banner" width="100%" />
 
 <h1></h1>
 <h2>Profile Features: Private chats group chats, post, status</h2>
@@ -52,7 +52,7 @@ This project provides me a comprehensive guide to building a feature-rich social
 <img src="profile.png" alt="profile update" width="100%" />
 
 <h1></h1>
-<h2>AI Integration: ChatGPT and DALL-E-3 </h2>
+<h2>Post Features </h2>
 <img src="post.png" alt="post" width="100%" />
 
 
